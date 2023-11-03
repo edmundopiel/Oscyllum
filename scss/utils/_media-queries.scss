@@ -1,7 +1,8 @@
-@media (max-width: 768px) {
+.selector {
+
+  @media (max-width: 768px) {
     grid-template-columns: 1fr;
     display: flex;
     flex-direction: column;
   }
-}
 }
