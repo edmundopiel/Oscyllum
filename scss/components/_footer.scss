@@ -4,10 +4,12 @@ footer {
   color: rgb(104, 100, 100);
   text-align: center;
   border-top: 2px solid rgba(202, 202, 202, 0.3);
-  padding: 10px 10px;
+  padding: 40px 40px;
+  padding-top: 80px;
+
 
   a {
-    background-color: #ffffff;
+    background-color: rgb(255, 255, 255);
     color: rgb(104, 100, 100);
     vertical-align: sub;
   }
@@ -31,7 +33,6 @@ footer {
       .bar {
         width: 100%;
         height: 3px;
-        background-color: blue;
       }
     }
 
@@ -49,3 +50,7 @@ footer {
     }
   }
 }
+
+
+
+
